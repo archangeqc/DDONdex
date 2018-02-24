@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<wpn>
+  <weapon>
+    <CID>0001</CID>
+    <IR>1</IR>
+    <Name>Bronze Sword</Name>
+    <Voc>FGT</Voc>
+    <Lv>1</Lv>
+    <Cost>2</Cost>
+    <Time>00:00:30</Time>
+    <Exp>10</Exp>
+    <Stats>
+      <P.Atk>121</P.Atk>
+      <P.Type>Slash</P.Type>
+      <M.Atk>0</M.Atk>
+      <M.Type>None</M.Type>
+      <Blow>25</Blow>
+      <KO>15</KO>
+      <Chance>0</Chance>
+      <Weight>80</Weight>
+    </Stats>
+    <Mats>
+      <ID>7858</ID>
+      <Qty>1</Qty>
+    </Mats>
+    <Mats>
+      <ID>7773</ID>
+      <Qty>1</Qty>
+    </Mats>
+  </weapon>
+</wpn>
