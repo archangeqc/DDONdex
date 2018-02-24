@@ -60,4 +60,16 @@
       <Qty>1</Qty>
     </Mats>
   </weapon>
+  <weapon>
+    <WID>0003</WID>
+    <IR>2</IR>
+    <Name>Mace</Name>
+    <Voc>FGT</Voc>
+    <Lv>8</Lv>
+    <Cost></Cost>
+    <Time></Time>
+    <Exp/>
+    <Stats/>
+    <Mats/>
+  </weapon>
 </root>

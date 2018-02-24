@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<data>
-  <Materials>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Materials.xsd">
+<Materials>
     <Item>
       <ID>7858</ID>
       <Name>Bronze Ore</Name>
@@ -729,7 +729,7 @@
     </Item>
     <Item>
 			<ID>9443</ID>
-      <Name>Demon&apos;s Prized Liquor</Name>
+      <Name>Demon's Prized Liquor</Name>
       <Type>5 - Liquid</Type>
       <Bazaar>Low</Bazaar>
     </Item>
@@ -777,7 +777,7 @@
     </Item>
     <Item>
 			<ID>17856</ID>
-      <Name>Sone-Curser&apos;s Tears</Name>
+      <Name>Sone-Curser's Tears</Name>
       <Type>5 - Liquid</Type>
       <Bazaar>UltraHigh</Bazaar>
     </Item>
@@ -825,7 +825,7 @@
     </Item>
     <Item>
 			<ID>7985</ID>
-      <Name>Goblin&apos;s Leaf</Name>
+      <Name>Goblin's Leaf</Name>
       <Type>6 - Grass</Type>
       <Bazaar>Low</Bazaar>
     </Item>
@@ -891,7 +891,7 @@
     </Item>
     <Item>
 			<ID>7986</ID>
-      <Name>Goblin&apos;s Flower</Name>
+      <Name>Goblin's Flower</Name>
       <Type>6 - Grass</Type>
       <Bazaar>UltraHigh</Bazaar>
     </Item>
@@ -969,7 +969,7 @@
     </Item>
     <Item>
 			<ID>8000</ID>
-      <Name>Troll&apos;s Poisonous Moss</Name>
+      <Name>Troll's Poisonous Moss</Name>
       <Type>7 - Mushroom</Type>
       <Bazaar>Mid</Bazaar>
     </Item>
@@ -993,7 +993,7 @@
     </Item>
     <Item>
 			<ID>7997</ID>
-      <Name>Fiend&apos;s Perch</Name>
+      <Name>Fiend's Perch</Name>
       <Type>7 - Mushroom</Type>
       <Bazaar>VeryHigh</Bazaar>
     </Item>
@@ -1005,7 +1005,7 @@
     </Item>
     <Item>
 			<ID>8001</ID>
-      <Name>Troll&apos;s Blue Poisonous Moss</Name>
+      <Name>Troll's Blue Poisonous Moss</Name>
       <Type>7 - Mushroom</Type>
       <Bazaar>Low</Bazaar>
     </Item>
@@ -1317,7 +1317,7 @@
     </Item>
     <Item>
 			<ID>17879</ID>
-      <Name>Dragon&apos;s Inverse Scale</Name>
+      <Name>Dragon's Inverse Scale</Name>
       <Type>8 - Skin</Type>
       <Bazaar>Mid</Bazaar>
     </Item>
@@ -1443,7 +1443,7 @@
     </Item>
     <Item>
 			<ID>7761</ID>
-      <Name>Orc&apos;s War Tusk</Name>
+      <Name>Orc's War Tusk</Name>
       <Type>10 - Fang</Type>
       <Bazaar>Low</Bazaar>
     </Item>
@@ -1515,7 +1515,7 @@
     </Item>
     <Item>
 			<ID>16014</ID>
-      <Name>Eagle&apos;s Damaged talon</Name>
+      <Name>Eagle's Damaged talon</Name>
       <Type>10 - Fang</Type>
       <Bazaar>Low</Bazaar>
     </Item>
@@ -1527,7 +1527,7 @@
     </Item>
     <Item>
 			<ID>17858</ID>
-      <Name>Giant&apos;s Molar</Name>
+      <Name>Giant's Molar</Name>
       <Type>10 - Fang</Type>
       <Bazaar>Mid</Bazaar>
     </Item>
@@ -1545,7 +1545,7 @@
     </Item>
     <Item>
 			<ID>17869</ID>
-      <Name>Undead Wolf&apos;s Fang</Name>
+      <Name>Undead Wolf's Fang</Name>
       <Type>10 - Fang</Type>
       <Bazaar>Mid</Bazaar>
     </Item>
@@ -1575,7 +1575,7 @@
     </Item>
     <Item>
 			<ID>7784</ID>
-      <Name>Giant&apos;s Horn</Name>
+      <Name>Giant's Horn</Name>
       <Type>11 - Horn</Type>
       <Bazaar>Low</Bazaar>
     </Item>
@@ -1587,7 +1587,7 @@
     </Item>
     <Item>
 			<ID>7751</ID>
-      <Name>Corpse-Eater&apos;s Horn</Name>
+      <Name>Corpse-Eater's Horn</Name>
       <Type>11 - Horn</Type>
       <Bazaar>High</Bazaar>
     </Item>
@@ -1629,7 +1629,7 @@
     </Item>
     <Item>
 			<ID>15973</ID>
-      <Name>Demon Envoy&apos;s Horn</Name>
+      <Name>Demon Envoy's Horn</Name>
       <Type>11 - Horn</Type>
       <Bazaar>High</Bazaar>
     </Item>
@@ -1641,7 +1641,7 @@
     </Item>
     <Item>
 			<ID>17865</ID>
-      <Name>Ogre&apos;s Horn</Name>
+      <Name>Ogre's Horn</Name>
       <Type>11 - Horn</Type>
       <Bazaar>Mid</Bazaar>
     </Item>
@@ -1833,7 +1833,7 @@
     </Item>
     <Item>
 			<ID>7746</ID>
-      <Name>Nightmare&apos;s Vocal Cords</Name>
+      <Name>Nightmare's Vocal Cords</Name>
       <Type>13 - Meat</Type>
       <Bazaar>Mid</Bazaar>
     </Item>
@@ -1845,19 +1845,19 @@
     </Item>
     <Item>
 			<ID>11805</ID>
-      <Name>Manticore&apos;s Scorpion Tail</Name>
+      <Name>Manticore's Scorpion Tail</Name>
       <Type>13 - Meat</Type>
       <Bazaar>UltraHigh</Bazaar>
     </Item>
     <Item>
 			<ID>15960</ID>
-      <Name>Demon Wolf&apos;s Sinewy Meat</Name>
+      <Name>Demon Wolf's Sinewy Meat</Name>
       <Type>13 - Meat</Type>
       <Bazaar>High</Bazaar>
     </Item>
     <Item>
 			<ID>15974</ID>
-      <Name>Envoy&apos;s Loathsome Tail</Name>
+      <Name>Envoy's Loathsome Tail</Name>
       <Type>13 - Meat</Type>
       <Bazaar>Mid</Bazaar>
     </Item>
@@ -1893,13 +1893,13 @@
     </Item>
     <Item>
 			<ID>18655</ID>
-      <Name>Demon Beast&apos;s Liver</Name>
+      <Name>Demon Beast's Liver</Name>
       <Type>13 - Meat</Type>
       <Bazaar>Low</Bazaar>
     </Item>
     <Item>
 			<ID>17930</ID>
-      <Name>Winged Beast&apos;s Heart</Name>
+      <Name>Winged Beast's Heart</Name>
       <Type>13 - Meat</Type>
       <Bazaar>Low</Bazaar>
     </Item>
@@ -2001,7 +2001,7 @@
     </Item>
     <Item>
 			<ID>7949</ID>
-      <Name>Witch&apos;s Velvet</Name>
+      <Name>Witch's Velvet</Name>
       <Type>14 - Cloth</Type>
       <Bazaar>High</Bazaar>
     </Item>
@@ -2151,7 +2151,7 @@
     </Item>
     <Item>
 			<ID>7779</ID>
-      <Name>Beast&apos;s Mane</Name>
+      <Name>Beast's Mane</Name>
       <Type>16 - Fur</Type>
       <Bazaar>Low</Bazaar>
     </Item>
@@ -2193,25 +2193,25 @@
     </Item>
     <Item>
 			<ID>9437</ID>
-      <Name>Magick Lion&apos;s Large Mane</Name>
+      <Name>Magick Lion's Large Mane</Name>
       <Type>16 - Fur</Type>
       <Bazaar>Low</Bazaar>
     </Item>
     <Item>
 			<ID>13224</ID>
-      <Name>Medusa&apos;s Serpent Hair</Name>
+      <Name>Medusa's Serpent Hair</Name>
       <Type>16 - Fur</Type>
       <Bazaar>Mid</Bazaar>
     </Item>
     <Item>
 			<ID>16009</ID>
-      <Name>Preotected Beast&apos;s Green Fur</Name>
+      <Name>Preotected Beast's Green Fur</Name>
       <Type>16 - Fur</Type>
       <Bazaar>VeryHigh</Bazaar>
     </Item>
     <Item>
 			<ID>17927</ID>
-      <Name>Goremantivore&apos;s White Beard</Name>
+      <Name>Goremantivore's White Beard</Name>
       <Type>16 - Fur</Type>
       <Bazaar>Mid</Bazaar>
     </Item>
@@ -2307,7 +2307,7 @@
     </Item>
     <Item>
 			<ID>7808</ID>
-      <Name>Witch&apos;s Grimoire</Name>
+      <Name>Witch's Grimoire</Name>
       <Type>17 - Scroll</Type>
       <Bazaar>High</Bazaar>
     </Item>
@@ -2451,7 +2451,7 @@
     </Item>
     <Item>
 			<ID>8021</ID>
-      <Name>Ancient Knight&apos;s Emblem</Name>
+      <Name>Ancient Knight's Emblem</Name>
       <Type>18 - Other</Type>
       <Bazaar>Low</Bazaar>
     </Item>
@@ -2485,7 +2485,7 @@
     </Item>
     <Item>
 			<ID>13827</ID>
-      <Name>Ghosts &apos;n Goblins Coin</Name>
+      <Name>Ghosts 'n Goblins Coin</Name>
       <Type>18 - Other</Type>
       <Bazaar>Mid</Bazaar>
       <BazaarPrice>5000</BazaarPrice>
@@ -2527,14 +2527,14 @@
     </Item>
     <Item>
 			<ID>16698</ID>
-      <Name>Black Knight&apos;s Thoughts</Name>
+      <Name>Black Knight's Thoughts</Name>
       <Type>18 - Other</Type>
       <Bazaar>High</Bazaar>
       <BazaarPrice>15000</BazaarPrice>
     </Item>
     <Item>
 			<ID>17867</ID>
-      <Name>Goblin&apos;s Spellstaff</Name>
+      <Name>Goblin's Spellstaff</Name>
       <Type>18 - Other</Type>
       <Bazaar>Mid</Bazaar>
       <BazaarPrice>3000</BazaarPrice>
