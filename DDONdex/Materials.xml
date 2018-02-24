@@ -1,0 +1,2224 @@
+<?xml version="1.1"?>
+<data>
+  <Item_Database>
+    <_7858>
+      <Name>Bronze Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7858>
+    <_7854>
+      <Name>Copper Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7854>
+    <_9060>
+      <Name>Lead Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_9060>
+    <_7853>
+      <Name>Iron Ore Fragment</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7853>
+    <_7855>
+      <Name>Iron Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7855>
+    <_7865>
+      <Name>Monster Gallstone</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7865>
+    <_7856>
+      <Name>Marble</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7856>
+    <_7863>
+      <Name>Drilled Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7863>
+    <_9061>
+      <Name>Pyrite</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_9061>
+    <_7864>
+      <Name>Rock Scale</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7864>
+    <_7861>
+      <Name>Hematite</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7861>
+    <_7866>
+      <Name>Golem Magickal  Rock</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7866>
+    <_7867>
+      <Name>Magick Medal</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7867>
+    <_7857>
+      <Name>Silver Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7857>
+    <_7868>
+      <Name>Phantom Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7868>
+    <_7869>
+      <Name>Laval Rock</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7869>
+    <_9062>
+      <Name>Cerussite</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_9062>
+    <_7859>
+      <Name>Gold Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7859>
+    <_7862>
+      <Name>Mithril Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7862>
+    <_7860>
+      <Name>Black Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_7860>
+    <_7889>
+      <Name>Spiritual Will Fragment</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7889>
+    <_7870>
+      <Name>High Quality Magick Medal</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7870>
+    <_9440>
+      <Name>Cockatrice Gastrolith</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_9440>
+    <_7871>
+      <Name>Alchemite</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7871>
+    <_15953>
+      <Name>Ringing Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_15953>
+    <_15946>
+      <Name>White Bone Rock</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>High</Bazaar>
+    </_15946>
+    <_16004>
+      <Name>Adamas Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Mid</Bazaar>
+    </_16004>
+    <_16001>
+      <Name>Ashen Flower Rock</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>High</Bazaar>
+    </_16001>
+    <_17861>
+      <Name>Black Blade Fragment</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_17861>
+    <_17882>
+      <Name>Brittle Sandstone</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_17882>
+    <_17883>
+      <Name>Pyroclastic Rock</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>Low</Bazaar>
+    </_17883>
+    <_18142>
+      <Name>Blazing Ore</Name>
+      <Type>1 - Ore</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_18142>
+    <_7876>
+      <Name>Bronze Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Low</Bazaar>
+    </_7876>
+    <_7873>
+      <Name>Copper Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7873>
+    <_7872>
+      <Name>Dull Iron Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Low</Bazaar>
+    </_7872>
+    <_7874>
+      <Name>Iron Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7874>
+    <_7882>
+      <Name>Jewel Steel Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7882>
+    <_7881>
+      <Name>Drilled Plate Sheet</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7881>
+    <_7879>
+      <Name>Red Chromium</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Low</Bazaar>
+    </_7879>
+    <_7883>
+      <Name>Bornite Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7883>
+    <_7875>
+      <Name>Silver Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Low</Bazaar>
+    </_7875>
+    <_7888>
+      <Name>Red Alloy Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Low</Bazaar>
+    </_7888>
+    <_7884>
+      <Name>Spirit Silver Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Low</Bazaar>
+    </_7884>
+    <_7880>
+      <Name>Mithril Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7880>
+    <_7877>
+      <Name>Gold Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>High</Bazaar>
+    </_7877>
+    <_7885>
+      <Name>Blue Steel Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_7885>
+    <_7892>
+      <Name>Electrum</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Low</Bazaar>
+    </_7892>
+    <_7878>
+      <Name>Black Iron Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7878>
+    <_7890>
+      <Name>Phantom Metal</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7890>
+    <_7886>
+      <Name>Magick Gold Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7886>
+    <_7891>
+      <Name>Electrum Plate</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_7891>
+    <_7887>
+      <Name>Dark Metal</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>Low</Bazaar>
+    </_7887>
+    <_9444>
+      <Name>Diorite Steel Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_9444>
+    <_11778>
+      <Name>Frost Metal</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>High</Bazaar>
+    </_11778>
+    <_15956>
+      <Name>Bright Titanium</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_15956>
+    <_16005>
+      <Name>Silvery Snow Steel Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_16005>
+    <_17892>
+      <Name>Cobalt Alloy Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_17892>
+    <_19654>
+      <Name>Urefined Alloy  Lump</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>High</Bazaar>
+    </_19654>
+    <_17894>
+      <Name>Bright Purple Steel Ingot</Name>
+      <Type>2 - Metal</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_17894>
+    <_7843>
+      <Name>Coarse Sand</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Low</Bazaar>
+    </_7843>
+    <_7844>
+      <Name>Polishing Sand</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Low</Bazaar>
+    </_7844>
+    <_7845>
+      <Name>Silken Sand</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Low</Bazaar>
+    </_7845>
+    <_7847>
+      <Name>Hematite Sand</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Low</Bazaar>
+    </_7847>
+    <_7849>
+      <Name>Magick Silt</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Low</Bazaar>
+    </_7849>
+    <_7848>
+      <Name>Blue Alluvial Gold</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Low</Bazaar>
+    </_7848>
+    <_7846>
+      <Name>Forest Chernozem</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7846>
+    <_7851>
+      <Name>White Shining Sand</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Low</Bazaar>
+    </_7851>
+    <_7852>
+      <Name>Sandcrystal</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Low</Bazaar>
+    </_7852>
+    <_7850>
+      <Name>Bone Meal</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>High</Bazaar>
+    </_7850>
+    <_9441>
+      <Name>Sand of Reminiscence</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Low</Bazaar>
+    </_9441>
+    <_16002>
+      <Name>Smooth White Mud</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Mid</Bazaar>
+    </_16002>
+    <_18648>
+      <Name>Volcanic Sand</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>High</Bazaar>
+    </_18648>
+    <_18649>
+      <Name>Volcanic Glass</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>Low</Bazaar>
+    </_18649>
+    <_18141>
+      <Name>Warm Mud</Name>
+      <Type>3 - Sand</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_18141>
+    <_7893>
+      <Name>Fluorite</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7893>
+    <_7897>
+      <Name>Amethyst</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_7897>
+    <_7729>
+      <Name>Orb of Darkness</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7729>
+    <_7895>
+      <Name>Peridot</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7895>
+    <_7907>
+      <Name>Spinel</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7907>
+    <_7916>
+      <Name>Apophyllite</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7916>
+    <_7912>
+      <Name>Mist Gem</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7912>
+    <_7896>
+      <Name>Garnet</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7896>
+    <_7901>
+      <Name>Crystal</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7901>
+    <_7899>
+      <Name>Sapphire</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7899>
+    <_7903>
+      <Name>Onyx</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7903>
+    <_7894>
+      <Name>Agate</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7894>
+    <_7904>
+      <Name>Topaz</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7904>
+    <_7900>
+      <Name>Ruby</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7900>
+    <_7902>
+      <Name>Lapis Lazuli</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7902>
+    <_7898>
+      <Name>Emerald</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7898>
+    <_7910>
+      <Name>Pigeon Blood</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7910>
+    <_7730>
+      <Name>Eye Gem</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7730>
+    <_7911>
+      <Name>Demonic Gem</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7911>
+    <_7908>
+      <Name>Smoky Quartz</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_7908>
+    <_7914>
+      <Name>Star Sphene</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7914>
+    <_7913>
+      <Name>Flame Crystal</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7913>
+    <_7731>
+      <Name>Rainbow Eye Gem</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7731>
+    <_7909>
+      <Name>Spirit Crystal</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7909>
+    <_15955>
+      <Name>Kingalite</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>High</Bazaar>
+    </_15955>
+    <_15995>
+      <Name>Griffin Spinel</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_15995>
+    <_17872>
+      <Name>Giant Apophyllite</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Low</Bazaar>
+    </_17872>
+    <_18650>
+      <Name>Red Garnet</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Mid</Bazaar>
+    </_18650>
+    <_17881>
+      <Name>Bone Pearl</Name>
+      <Type>4 - Gem</Type>
+      <Bazaar>Jackpot</Bazaar>
+    </_17881>
+    <_7834>
+      <Name>Slime Liquid</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7834>
+    <_7836>
+      <Name>Insect Venom</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7836>
+    <_7824>
+      <Name>Clear Water</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7824>
+    <_7825>
+      <Name>Clear Spring Water</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7825>
+    <_7839>
+      <Name>Unrefined Demon Wine</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7839>
+    <_7827>
+      <Name>Red Liquor</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7827>
+    <_7840>
+      <Name>Strong Viscous Liquid</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7840>
+    <_7826>
+      <Name>Stagnant Water</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7826>
+    <_7828>
+      <Name>White Liquor</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7828>
+    <_7841>
+      <Name>Black Tar</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7841>
+    <_7838>
+      <Name>Undead Extract</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7838>
+    <_7837>
+      <Name>Strong Acid Slime Piece</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7837>
+    <_7829>
+      <Name>Healing Drop</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7829>
+    <_7830>
+      <Name>Energy Liquid</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7830>
+    <_7842>
+      <Name>Cockatrice Liquid</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_7842>
+    <_7831>
+      <Name>Blessed Drop</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_7831>
+    <_7832>
+      <Name>Magickal Potion</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7832>
+    <_7833>
+      <Name>Alkahest</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_7833>
+    <_9443>
+      <Name>Demon&apos;s Prized Liquor</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_9443>
+    <_15954>
+      <Name>Valley Spring Water</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Mid</Bazaar>
+    </_15954>
+    <_15945>
+      <Name>Foaming Water</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Mid</Bazaar>
+    </_15945>
+    <_15949>
+      <Name>Elana Water</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>High</Bazaar>
+    </_15949>
+    <_15935>
+      <Name>Platinum Blood</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_15935>
+    <_15990>
+      <Name>Sancto Sap</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_15990>
+    <_17886>
+      <Name>Plankton Liquid</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_17886>
+    <_17880>
+      <Name>Highly Viscous Slime Liquid</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>Low</Bazaar>
+    </_17880>
+    <_17856>
+      <Name>Sone-Curser&apos;s Tears</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_17856>
+    <_17915>
+      <Name>Underworld Drop</Name>
+      <Type>5 - Liquid</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_17915>
+    <_7974>
+      <Name>Baby Herb</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_7974>
+    <_7976>
+      <Name>Lestania Herb</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_7976>
+    <_7989>
+      <Name>Small Nut</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_7989>
+    <_7975>
+      <Name>Wild Herb</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>High</Bazaar>
+    </_7975>
+    <_7980>
+      <Name>Purple Anise</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_7980>
+    <_7991>
+      <Name>Green Seed</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7991>
+    <_7985>
+      <Name>Goblin&apos;s Leaf</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_7985>
+    <_7982>
+      <Name>Angelica</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_7982>
+    <_7987>
+      <Name>Ent Leaf</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_7987>
+    <_7977>
+      <Name>Yellow Thyme</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7977>
+    <_7981>
+      <Name>Moonflow</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_7981>
+    <_7978>
+      <Name>Red Sage</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_7978>
+    <_7979>
+      <Name>Blue Flower</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_7979>
+    <_7992>
+      <Name>Ent Seed</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7992>
+    <_7983>
+      <Name>King Bay Leaf</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>High</Bazaar>
+    </_7983>
+    <_7990>
+      <Name>Bluecurrant</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7990>
+    <_9064>
+      <Name>Northen Oregano</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_9064>
+    <_7986>
+      <Name>Goblin&apos;s Flower</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_7986>
+    <_7984>
+      <Name>Deenan Hyssop</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_7984>
+    <_9065>
+      <Name>Zandoratalis</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_9065>
+    <_15944>
+      <Name>Farana Mint</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Mid</Bazaar>
+    </_15944>
+    <_15947>
+      <Name>Old Geranium</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_15947>
+    <_15952>
+      <Name>Wijnruit</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>High</Bazaar>
+    </_15952>
+    <_17884>
+      <Name>Ashen Grass</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Mid</Bazaar>
+    </_17884>
+    <_18663>
+      <Name>Mandragora Leaf</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_18663>
+    <_17885>
+      <Name>Blaze Grass</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>Low</Bazaar>
+    </_17885>
+    <_18662>
+      <Name>Cursed Withered Grass</Name>
+      <Type>6 - Grass</Type>
+      <Bazaar>High</Bazaar>
+    </_18662>
+    <_7993>
+      <Name>Gala Mushroom</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_7993>
+    <_7994>
+      <Name>Quality Gala Mushroom</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_7994>
+    <_7996>
+      <Name>Stagnant Shroom</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7996>
+    <_8000>
+      <Name>Troll&apos;s Poisonous Moss</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_8000>
+    <_7998>
+      <Name>Moonlight Mushroom</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>High</Bazaar>
+    </_7998>
+    <_9063>
+      <Name>Coconut-Scented Milkcap</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_9063>
+    <_7995>
+      <Name>High Quality Gala Mushroom</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7995>
+    <_7997>
+      <Name>Fiend&apos;s Perch</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_7997>
+    <_7999>
+      <Name>Pearl Mushroom</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7999>
+    <_8001>
+      <Name>Troll&apos;s Blue Poisonous Moss</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_8001>
+    <_15951>
+      <Name>Crab Brittlegill</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_15951>
+    <_16012>
+      <Name>Thousand-Year Moss</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>High</Bazaar>
+    </_16012>
+    <_18646>
+      <Name>Toadstool Sitter</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_18646>
+    <_18647>
+      <Name>Mandragora Mushroom</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_18647>
+    <_17917>
+      <Name>Feryana Sweet Mushroom</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_17917>
+    <_7961>
+      <Name>Thin Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_7961>
+    <_7962>
+      <Name>Brown Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_7962>
+    <_7963>
+      <Name>Hard Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_7963>
+    <_7971>
+      <Name>Ent Branch</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_7971>
+    <_7965>
+      <Name>Red Lumber</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7965>
+    <_7967>
+      <Name>Cedar Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7967>
+    <_7968>
+      <Name>Pine Lumber</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7968>
+    <_7972>
+      <Name>High Quality Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_7972>
+    <_7964>
+      <Name>White Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_7964>
+    <_7969>
+      <Name>Sequoia Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_7969>
+    <_7966>
+      <Name>Rosewood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_7966>
+    <_7970>
+      <Name>Black Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7970>
+    <_9059>
+      <Name>Gold-Striped Hardwood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_9059>
+    <_9159>
+      <Name>Alchemic Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_9159>
+    <_9442>
+      <Name>Writhing Live Bark</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_9442>
+    <_15948>
+      <Name>Premium Fragrant Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_15948>
+    <_15950>
+      <Name>Rotten Tree</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_15950>
+    <_16003>
+      <Name>Morrow Lauan Wood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Mid</Bazaar>
+    </_16003>
+    <_18507>
+      <Name>Rathnite Local Hardwood</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_18507>
+    <_18664>
+      <Name>Mandragora Twig</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_18664>
+    <_18508>
+      <Name>Natural Charcoal</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>Low</Bazaar>
+    </_18508>
+    <_17916>
+      <Name>Misleading Twig</Name>
+      <Type>7 - Mushroom</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_17916>
+    <_7917>
+      <Name>Animal Pelt</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7917>
+    <_7919>
+      <Name>Lizardscale Pelt</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7919>
+    <_7732>
+      <Name>Ape Pelt</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7732>
+    <_7733>
+      <Name>Large Simian Thick Pelt</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7733>
+    <_7918>
+      <Name>Strong Animal Leather</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7918>
+    <_7924>
+      <Name>Riugged Leather</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7924>
+    <_7920>
+      <Name>Strong Lizardscale Pelt</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7920>
+    <_7921>
+      <Name>Smooth Leather</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7921>
+    <_7925>
+      <Name>Giant Tough Pelt</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7925>
+    <_7928>
+      <Name>Dragon Hide</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7928>
+    <_7739>
+      <Name>White Lion Pelt</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_7739>
+    <_7923>
+      <Name>Beast Leather</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7923>
+    <_7929>
+      <Name>Thick Dragonscale</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>High</Bazaar>
+    </_7929>
+    <_7927>
+      <Name>Smooth Dragonleather</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_7927>
+    <_7932>
+      <Name>Bluish Gray Dragonscale</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>High</Bazaar>
+    </_7932>
+    <_7742>
+      <Name>Moist Black Leather</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7742>
+    <_9438>
+      <Name>Giant Single Pelt</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Mid</Bazaar>
+    </_9438>
+    <_7922>
+      <Name>Spectral Dragonscale</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7922>
+    <_7930>
+      <Name>Amber Dragonscale</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_7930>
+    <_7931>
+      <Name>Azure Dragonscale</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7931>
+    <_15961>
+      <Name>Stiff Crocodile Skin</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_15961>
+    <_17870>
+      <Name>Rock Leather</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_17870>
+    <_17857>
+      <Name>Demonic Beast Snakeskin</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Mid</Bazaar>
+    </_17857>
+    <_17866>
+      <Name>Manticore Raw Pelt</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Low</Bazaar>
+    </_17866>
+    <_17879>
+      <Name>Dragon&apos;s Inverse Scale</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>Mid</Bazaar>
+    </_17879>
+    <_18726>
+      <Name>Scarred Lizardscale Pelt</Name>
+      <Type>8 - Skin</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_18726>
+    <_7768>
+      <Name>Animal Bone</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_7768>
+    <_7767>
+      <Name>Dry Bone</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_7767>
+    <_7771>
+      <Name>Giant Bone</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_7771>
+    <_7803>
+      <Name>Fine Bleached Bone</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_7803>
+    <_7804>
+      <Name>Magick-Tinged Bone</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_7804>
+    <_7769>
+      <Name>Black Skull</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_7769>
+    <_7807>
+      <Name>Mutated Bone Lump</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_7807>
+    <_7770>
+      <Name>Thick Bone</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_7770>
+    <_7772>
+      <Name>Cursed Withered Grass</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_7772>
+    <_7806>
+      <Name>Huge Dragon Bone Lump</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_7806>
+    <_15927>
+      <Name>Infected Giant Ulna</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_15927>
+    <_16008>
+      <Name>Fine Femur</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_16008>
+    <_17864>
+      <Name>Magickal Giant Bones</Name>
+      <Type>9 - Bone</Type>
+      <Bazaar>Low</Bazaar>
+    </_17864>
+    <_7798>
+      <Name>Small Fang</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7798>
+    <_7760>
+      <Name>Crooked Fang</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7760>
+    <_7762>
+      <Name>Cyclops Tusk</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7762>
+    <_7787>
+      <Name>Large Fang</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7787>
+    <_7766>
+      <Name>Ogre Claw</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7766>
+    <_7759>
+      <Name>Sharp Claw</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7759>
+    <_7761>
+      <Name>Orc&apos;s War Tusk</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7761>
+    <_7747>
+      <Name>Sphinx Claw</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7747>
+    <_7765>
+      <Name>Water Dragon Fang</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7765>
+    <_7801>
+      <Name>Beast Claw</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7801>
+    <_7799>
+      <Name>Behemoth Fang</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7799>
+    <_7800>
+      <Name>Shadowy Claw</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7800>
+    <_9453>
+      <Name>Spectral Dragon Fang</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_9453>
+    <_7763>
+      <Name>Dragon Fang</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_7763>
+    <_7802>
+      <Name>Spectral Dragon Claw</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7802>
+    <_15963>
+      <Name>Bloodied Giant Tusk</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Mid</Bazaar>
+    </_15963>
+    <_15971>
+      <Name>Murky Dragon Fang</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_15971>
+    <_15928>
+      <Name>Rainbow-Colored Claw</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>High</Bazaar>
+    </_15928>
+    <_16014>
+      <Name>Eagle&apos;s Damaged talon</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_16014>
+    <_15996>
+      <Name>Black Claw of Misfortune</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>High</Bazaar>
+    </_15996>
+    <_17858>
+      <Name>Giant&apos;s Molar</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Mid</Bazaar>
+    </_17858>
+    <_17873>
+      <Name>Undead Nail Shaving</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_17873>
+    <_17871>
+      <Name>Rock Cutter</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Low</Bazaar>
+    </_17871>
+    <_17869>
+      <Name>Undead Wolf&apos;s Fang</Name>
+      <Type>10 - Fang</Type>
+      <Bazaar>Mid</Bazaar>
+    </_17869>
+    <_7750>
+      <Name>Small Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Low</Bazaar>
+    </_7750>
+    <_7752>
+      <Name>Goblin Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Low</Bazaar>
+    </_7752>
+    <_7749>
+      <Name>Colossus Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Low</Bazaar>
+    </_7749>
+    <_7758>
+      <Name>Griffin Beak</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Low</Bazaar>
+    </_7758>
+    <_7784>
+      <Name>Giant&apos;s Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Low</Bazaar>
+    </_7784>
+    <_7785>
+      <Name>Goat Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Low</Bazaar>
+    </_7785>
+    <_7751>
+      <Name>Corpse-Eater&apos;s Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>High</Bazaar>
+    </_7751>
+    <_7756>
+      <Name>Angules Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>High</Bazaar>
+    </_7756>
+    <_7753>
+      <Name>Cracked Black Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Low</Bazaar>
+    </_7753>
+    <_7748>
+      <Name>Sinister Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7748>
+    <_7754>
+      <Name>Dragon Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Low</Bazaar>
+    </_7754>
+    <_11777>
+      <Name>Discolored Hard Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Mid</Bazaar>
+    </_11777>
+    <_15969>
+      <Name>Sharp Back Spine</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Low</Bazaar>
+    </_15969>
+    <_15973>
+      <Name>Demon Envoy&apos;s Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>High</Bazaar>
+    </_15973>
+    <_16013>
+      <Name>Deformed Horn of Misfortune</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Mid</Bazaar>
+    </_16013>
+    <_17865>
+      <Name>Ogre&apos;s Horn</Name>
+      <Type>11 - Horn</Type>
+      <Bazaar>Mid</Bazaar>
+    </_17865>
+    <_7811>
+      <Name>Bird Feather</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_7811>
+    <_7812>
+      <Name>Clear Insect Wing</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_7812>
+    <_7813>
+      <Name>Harpy Pinion</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_7813>
+    <_7815>
+      <Name>Sphinx Azure Pinion</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_7815>
+    <_7783>
+      <Name>Harpy Flight Feather</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_7783>
+    <_7814>
+      <Name>Griffin Feather</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_7814>
+    <_7820>
+      <Name>Lindwurm Fin</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_7820>
+    <_7816>
+      <Name>Cockatrice Raven Pinion</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_7816>
+    <_7818>
+      <Name>Glossy Black Feather</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_7818>
+    <_7822>
+      <Name>Transmuted Gold Feather</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>High</Bazaar>
+    </_7822>
+    <_7823>
+      <Name>Bright Gold Feather</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7823>
+    <_7819>
+      <Name>Demonic Fowl Feather</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_7819>
+    <_9439>
+      <Name>Griffin Glossy Plume</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_9439>
+    <_13223>
+      <Name>Discolored Spore-Covered Feather</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Mid</Bazaar>
+    </_13223>
+    <_15959>
+      <Name>PPixie Mock Wing</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Mid</Bazaar>
+    </_15959>
+    <_15962>
+      <Name>Bronze Tail Feather</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Mid</Bazaar>
+    </_15962>
+    <_15967>
+      <Name>Dazzling Silver Plume</Name>
+      <Type>12 - Feather</Type>
+      <Bazaar>Low</Bazaar>
+    </_15967>
+    <_1074>
+      <Name>Beast-Steak</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_1074>
+    <_7735>
+      <Name>Undead Carrion</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7735>
+    <_7736>
+      <Name>Saurian Tail</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7736>
+    <_7728>
+      <Name>Rotten Lump</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7728>
+    <_7551>
+      <Name>Large Beast-Steak</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7551>
+    <_7737>
+      <Name>Saurian Gland</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7737>
+    <_7738>
+      <Name>Superior Saurian Tail</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7738>
+    <_7726>
+      <Name>Marbled Beast-Steak</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7726>
+    <_7727>
+      <Name>Ambrosial Beast-Steak</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>High</Bazaar>
+    </_7727>
+    <_7740>
+      <Name>Giant Eyeball</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7740>
+    <_7734>
+      <Name>Blob Flesh</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7734>
+    <_7741>
+      <Name>Sinister Carrion</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7741>
+    <_7745>
+      <Name>Cocatrice Poison Gland</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7745>
+    <_7744>
+      <Name>Mystery Organs</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_7744>
+    <_7746>
+      <Name>Nightmare&apos;s Vocal Cords</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7746>
+    <_11774>
+      <Name>Corroded Giant Eyeball</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Mid</Bazaar>
+    </_11774>
+    <_11805>
+      <Name>Manticore&apos;s Scorpion Tail</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_11805>
+    <_15960>
+      <Name>Demon Wolf&apos;s Sinewy Meat</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>High</Bazaar>
+    </_15960>
+    <_15974>
+      <Name>Envoy&apos;s Loathsome Tail</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Mid</Bazaar>
+    </_15974>
+    <_15965>
+      <Name>Composite Organ</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_15965>
+    <_16010>
+      <Name>Still-Beating Heart</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_16010>
+    <_16011>
+      <Name>Seabird Syrinx</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_16011>
+    <_17928>
+      <Name>Harpy Breast Meat</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_17928>
+    <_18661>
+      <Name>Beast-Luring Meat</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>High</Bazaar>
+    </_18661>
+    <_18655>
+      <Name>Demon Beast&apos;s Liver</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_18655>
+    <_17930>
+      <Name>Winged Beast&apos;s Heart</Name>
+      <Type>13 - Meat</Type>
+      <Bazaar>Low</Bazaar>
+    </_17930>
+    <_7934>
+      <Name>Common Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>Low</Bazaar>
+    </_7934>
+    <_7944>
+      <Name>Burial Shroud</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>Low</Bazaar>
+    </_7944>
+    <_7936>
+      <Name>Linen</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>Low</Bazaar>
+    </_7936>
+    <_7935>
+      <Name>Leather Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>Low</Bazaar>
+    </_7935>
+    <_7938>
+      <Name>Combat Fabric</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>High</Bazaar>
+    </_7938>
+    <_7946>
+      <Name>Bloodstained Red Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7946>
+    <_7937>
+      <Name>Hard Leather Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>High</Bazaar>
+    </_7937>
+    <_7939>
+      <Name>Courtly Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7939>
+    <_7945>
+      <Name>Orcish Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>High</Bazaar>
+    </_7945>
+    <_7941>
+      <Name>Dragonleather</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>High</Bazaar>
+    </_7941>
+    <_7940>
+      <Name>Protective Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7940>
+    <_7942>
+      <Name>Blow-Resistant Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7942>
+    <_7948>
+      <Name>Cursed Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>High</Bazaar>
+    </_7948>
+    <_7947>
+      <Name>Sinister Black Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7947>
+    <_7943>
+      <Name>Sacred Blessed Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>High</Bazaar>
+    </_7943>
+    <_7950>
+      <Name>Mergan Cloth</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_7950>
+    <_7949>
+      <Name>Witch&apos;s Velvet</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>High</Bazaar>
+    </_7949>
+    <_9445>
+      <Name>Safeguarding Satin</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_9445>
+    <_15957>
+      <Name>Spider Mesh</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_15957>
+    <_16006>
+      <Name>Elemental Lace</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_16006>
+    <_19293>
+      <Name>Cloth of Fighting Spirit</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>High</Bazaar>
+    </_19293>
+    <_19294>
+      <Name>Cloth of Ambition</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_19294>
+    <_17891>
+      <Name>Ribbon of Rich Bounty</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>High</Bazaar>
+    </_17891>
+    <_17929>
+      <Name>Fluttering Rags</Name>
+      <Type>14 - Cloth</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_17929>
+    <_7960>
+      <Name>Spider Thread</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Low</Bazaar>
+    </_7960>
+    <_7951>
+      <Name>Filament</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Low</Bazaar>
+    </_7951>
+    <_7952>
+      <Name>Rough Thread</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Low</Bazaar>
+    </_7952>
+    <_7953>
+      <Name>Leather Cord</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Low</Bazaar>
+    </_7953>
+    <_7954>
+      <Name>Spun Yarn</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Low</Bazaar>
+    </_7954>
+    <_7955>
+      <Name>Iron Thread</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Low</Bazaar>
+    </_7955>
+    <_7957>
+      <Name>Demon Thread</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Low</Bazaar>
+    </_7957>
+    <_7956>
+      <Name>Strong Thread</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Low</Bazaar>
+    </_7956>
+    <_7958>
+      <Name>Dromi</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7958>
+    <_7959>
+      <Name>Gleipnir</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7959>
+    <_7743>
+      <Name>Gold Thread</Name>
+      <Type>15 - String</Type>
+      <Bazaar>High</Bazaar>
+    </_7743>
+    <_9446>
+      <Name>Wind Twine</Name>
+      <Type>15 - String</Type>
+      <Bazaar>Mid</Bazaar>
+    </_9446>
+    <_7773>
+      <Name>Animal Fur</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7773>
+    <_7774>
+      <Name>Supple Fur</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7774>
+    <_7775>
+      <Name>Ape Fur</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7775>
+    <_7809>
+      <Name>Giant Fur</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7809>
+    <_7810>
+      <Name>Sphinx Hair</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Mid</Bazaar>
+    </_7810>
+    <_7779>
+      <Name>Beast&apos;s Mane</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7779>
+    <_7776>
+      <Name>Ogre Fur</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7776>
+    <_7777>
+      <Name>Necrophagous Bristle</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7777>
+    <_7778>
+      <Name>Beast Fur</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7778>
+    <_7780>
+      <Name>Pure White Mane</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7780>
+    <_7782>
+      <Name>Silver Bristle</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7782>
+    <_7781>
+      <Name>Transmuted Fur</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_7781>
+    <_9437>
+      <Name>Magick Lion&apos;s Large Mane</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Low</Bazaar>
+    </_9437>
+    <_13224>
+      <Name>Medusa&apos;s Serpent Hair</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Mid</Bazaar>
+    </_13224>
+    <_16009>
+      <Name>Preotected Beast&apos;s Green Fur</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_16009>
+    <_17927>
+      <Name>Goremantivore&apos;s White Beard</Name>
+      <Type>16 - Fur</Type>
+      <Bazaar>Mid</Bazaar>
+    </_17927>
+    <_8002>
+      <Name>Blank Scroll</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8002>
+    <_8003>
+      <Name>Scroll of Power</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8003>
+    <_8004>
+      <Name>Scroll of Protection</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8004>
+    <_8005>
+      <Name>Scroll of Sorcery</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>High</Bazaar>
+    </_8005>
+    <_8006>
+      <Name>Scroll of Magickal Protection</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8006>
+    <_8011>
+      <Name>Scroll of Fire</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8011>
+    <_8012>
+      <Name>Scroll of Ice</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8012>
+    <_8013>
+      <Name>Scroll of Thunder</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8013>
+    <_8014>
+      <Name>Scroll of Holy</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8014>
+    <_8015>
+      <Name>Scroll of Darkness</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8015>
+    <_8007>
+      <Name>Scroll of Great Strength</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8007>
+    <_8008>
+      <Name>Scroll of Defense</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Mid</Bazaar>
+    </_8008>
+    <_8009>
+      <Name>Scroll of Great Sorcery</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8009>
+    <_8010>
+      <Name>Scroll of Magickal Defense</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_8010>
+    <_7764>
+      <Name>Ancient Grimoir</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_7764>
+    <_7808>
+      <Name>Witch&apos;s Grimoire</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>High</Bazaar>
+    </_7808>
+    <_9447>
+      <Name>Scroll of Bewitching</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>High</Bazaar>
+    </_9447>
+    <_15958>
+      <Name>Scroll of Dream and Reality</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>VeryHigh</Bazaar>
+    </_15958>
+    <_16007>
+      <Name>Scroll of True Shadow</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_16007>
+    <_17878>
+      <Name>Cursed Letter</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>Low</Bazaar>
+    </_17878>
+    <_17893>
+      <Name>Scroll of the Starry Sky</Name>
+      <Type>17 - Scroll</Type>
+      <Bazaar>200k</Bazaar>
+    </_17893>
+    <_8016>
+      <Name>White Seashell</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8016>
+    <_1316>
+      <Name>Glowworm</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_1316>
+    <_8026>
+      <Name>Mysterious Gold Lump</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8026>
+    <_8017>
+      <Name>Beautiful Conch Shell</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8017>
+    <_8028>
+      <Name>Large Metal Plate</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8028>
+    <_8024>
+      <Name>Rusted Plate</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8024>
+    <_8034>
+      <Name>Goblin Gunpowder</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8034>
+    <_8019>
+      <Name>Broken Dagger</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8019>
+    <_8020>
+      <Name>Orc Decoration</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8020>
+    <_8018>
+      <Name>Large Scallop Shell</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8018>
+    <_8025>
+      <Name>Chipped Gold Lump</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>UltraHigh</Bazaar>
+    </_8025>
+    <_8029>
+      <Name>Dirty Sheet Metal</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>High</Bazaar>
+    </_8029>
+    <_8022>
+      <Name>Demon Arming Points</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8022>
+    <_8033>
+      <Name>Aliment Extractant</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>High</Bazaar>
+    </_8033>
+    <_8023>
+      <Name>Mergan Ring</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Mid</Bazaar>
+    </_8023>
+    <_8027>
+      <Name>Training Stakes</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8027>
+    <_8030>
+      <Name>Exquisite Metal Plate</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Mid</Bazaar>
+    </_8030>
+    <_8031>
+      <Name>Alchemized Armor Plate</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8031>
+    <_8021>
+      <Name>Ancient Knight&apos;s Emblem</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+    </_8021>
+    <_9796>
+      <Name>Pearl Shell</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+      <BazaarPrice>1250</BazaarPrice>
+    </_9796>
+    <_13491>
+      <Name>Authentication Orb (Rathalos)</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+      <BazaarPrice>600</BazaarPrice>
+    </_13491>
+    <_13492>
+      <Name>Authentication Orb (Rathian)</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+      <BazaarPrice>600</BazaarPrice>
+    </_13492>
+    <_13826>
+      <Name>Rielief Coin (Pale Yellow)</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+      <BazaarPrice>1200</BazaarPrice>
+    </_13826>
+    <_13827>
+      <Name>Ghosts &apos;n Goblins Coin</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Mid</Bazaar>
+      <BazaarPrice>5000</BazaarPrice>
+    </_13827>
+    <_16833>
+      <Name>Silver Authentication Orb</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>High</Bazaar>
+      <BazaarPrice>19000</BazaarPrice>
+    </_16833>
+    <_16834>
+      <Name>Gold Authentication Orb</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>High</Bazaar>
+      <BazaarPrice>16000</BazaarPrice>
+    </_16834>
+    <_15934>
+      <Name>Tarasque Shell</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Mid</Bazaar>
+      <BazaarPrice>3500</BazaarPrice>
+    </_15934>
+    <_15989>
+      <Name>Pixie Crown</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>High</Bazaar>
+      <BazaarPrice>10000</BazaarPrice>
+    </_15989>
+    <_18835>
+      <Name>Survey Corps Token</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>High</Bazaar>
+      <BazaarPrice>16000</BazaarPrice>
+    </_18835>
+    <_16698>
+      <Name>Black Knight&apos;s Thoughts</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>High</Bazaar>
+      <BazaarPrice>15000</BazaarPrice>
+    </_16698>
+    <_17867>
+      <Name>Goblin&apos;s Spellstaff</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Mid</Bazaar>
+      <BazaarPrice>3000</BazaarPrice>
+    </_17867>
+    <_17888>
+      <Name>Dragon Head Tile Fragment</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>High</Bazaar>
+      <BazaarPrice>10000</BazaarPrice>
+    </_17888>
+    <_17889>
+      <Name>Dragon Tail Tile Fragment</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>High</Bazaar>
+      <BazaarPrice>11000</BazaarPrice>
+    </_17889>
+    <_17859>
+      <Name>Mark of Brute Courage</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Low</Bazaar>
+      <BazaarPrice>500</BazaarPrice>
+    </_17859>
+    <_17876>
+      <Name>Battle Armor Fragment</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>Mid</Bazaar>
+      <BazaarPrice>2750</BazaarPrice>
+    </_17876>
+    <_18729>
+      <Name>Campaign Battle Armor</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>UltraHigh</Bazaar>
+      <BazaarPrice>75000</BazaarPrice>
+    </_18729>
+    <_21196>
+      <Name>Gem of Devasation</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>VeryHigh</Bazaar>
+      <BazaarPrice>30000</BazaarPrice>
+    </_21196>
+    <_17868>
+      <Name>Blood Drinking VVessel</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>UltraHigh</Bazaar>
+      <BazaarPrice>160000</BazaarPrice>
+    </_17868>
+    <_19655>
+      <Name>Reinforced Battle Armor</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>UltraHigh</Bazaar>
+      <BazaarPrice>160000</BazaarPrice>
+    </_19655>
+    <_17863>
+      <Name>Evil Eye Lens</Name>
+      <Type>18 - Other</Type>
+      <Bazaar>UltraHigh</Bazaar>
+      <BazaarPrice>200000</BazaarPrice>
+    </_17863>
+    <_8135>
+      <Name>Red Dye</Name>
+      <Type>19 - Dye</Type>
+      <Bazaar>Mid</Bazaar>
+      <BazaarPrice>5000</BazaarPrice>
+    </_8135>
+    <_8136>
+      <Name>Green Dye</Name>
+      <Type>19 - Dye</Type>
+      <Bazaar>Mid</Bazaar>
+      <BazaarPrice>5000</BazaarPrice>
+    </_8136>
+    <_8137>
+      <Name>Blue Dye</Name>
+      <Type>19 - Dye</Type>
+      <Bazaar>Mid</Bazaar>
+      <BazaarPrice>5000</BazaarPrice>
+    </_8137>
+    <_8138>
+      <Name>Yellow Dye</Name>
+      <Type>19 - Dye</Type>
+      <Bazaar>Mid</Bazaar>
+      <BazaarPrice>6500</BazaarPrice>
+    </_8138>
+    <_8139>
+      <Name>Pink Dye</Name>
+      <Type>19 - Dye</Type>
+      <Bazaar>Mid</Bazaar>
+      <BazaarPrice>5000</BazaarPrice>
+    </_8139>
+    <_8140>
+      <Name>Black Dye</Name>
+      <Type>19 - Dye</Type>
+      <Bazaar>High</Bazaar>
+      <BazaarPrice>17500</BazaarPrice>
+    </_8140>
+    <_9195>
+      <Name>Crest of Power</Name>
+      <Type>20 - Weapon Crest</Type>
+      <Bazaar>Mid</Bazaar>
+      <BazaarPrice>2100</BazaarPrice>
+    </_9195>
+    <_9196>
+      <Name>Crest of Greater Power</Name>
+      <Type>21 - Weapon Crest</Type>
+      <Bazaar>Low</Bazaar>
+      <BazaarPrice>300</BazaarPrice>
+    </_9196>
+  </Item_Database>
+</data>
